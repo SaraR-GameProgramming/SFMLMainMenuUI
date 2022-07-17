@@ -1,0 +1,2 @@
+C:\Users\Saral\source\repos\SFMLUIProject\Debug\SFMLUIProject.exe
+C:\Users\Saral\source\repos\SFMLUIProject\Debug\SFMLUIProject.pdb

@@ -1,0 +1,12 @@
+﻿  SFMLUIProject.cpp
+C:\Users\Saral\source\repos\SFMLUIProject\SFMLUIProject.cpp(12,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Saral\source\repos\SFMLUIProject\SFMLUIProject.cpp(12,36): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SFMLUIProject.vcxproj -> C:\Users\Saral\source\repos\SFMLUIProject\Debug\SFMLUIProject.exe
